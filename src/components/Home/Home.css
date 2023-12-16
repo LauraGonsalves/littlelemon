@@ -1,0 +1,38 @@
+ @import url('https://fonts.cdnfonts.com/css/forte');
+
+                
+.cover-image-container{
+    width: 100%;
+    max-width: 1360px; /* Adjust the max-width value as needed */
+    overflow: hidden;
+height: 500px;}
+
+.about-img{
+    width: 100%;
+  height: auto;
+  display: block;
+filter: brightness(0.7);}
+
+.overlay{
+    position: absolute;
+    top: 30%;
+    left: 40%;
+}
+.description{
+    font-size: 53px;
+    color: #264731;
+    line-height: 1.5em;
+    font-family: 'Forte', sans-serif;
+}
+
+.description-title{
+    font-size: 60px;
+}
+.description-des{
+    font-size: 45px;
+    
+}
+.hover-black:hover {
+    color: black;
+    
+  }

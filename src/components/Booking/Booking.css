@@ -1,0 +1,59 @@
+.booking-container{
+    background-image: url('https://img.freepik.com/premium-vector/abstract-smooth-green-background-wave-vector-design_258787-3275.jpg?w=2000');
+    background-size: cover;
+    background-position: center center;
+    min-height: 87vh;
+}
+h1{
+    color: #264731; 
+    text-align: center;
+
+}
+.form{
+
+    margin-top: 2rem;
+   margin-left: 10rem;
+}
+label{
+    color: #264731; 
+
+}
+.inputStyle{
+    width: 400px;
+    padding: 4px;
+    border: 1px solid #264731;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    color: #264731; 
+    background: transparent;
+}
+.inputStyle:hover{
+    cursor: pointer;
+}
+.button{
+margin-top: 1rem;
+width: 120px;
+padding: 5px;
+background-color: #264731;
+color: white;
+border-radius: 6px;
+
+}
+.popup{
+    width: 400px;
+    position: fixed;
+    top: 10%;
+    left: 30%;
+    background-color: white;
+    border: 2px solid #264731;
+    margin: 2rem;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+.popup p{
+        color: #264731; 
+        font-weight: 500;
+
+}

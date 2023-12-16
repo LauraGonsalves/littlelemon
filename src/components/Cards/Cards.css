@@ -1,0 +1,20 @@
+.card-row{
+    display: flex;
+    justify-content: space-between;
+}
+.cards{
+    flex-basis: calc(33.33%-10px);
+}
+.button-color{
+    background-color: #518061;
+    border: 1px solid #264731 ;
+}
+.txt{
+    color: black;
+
+}
+.button-color:hover{
+    background-color: #264731;
+    color: white;
+    
+}

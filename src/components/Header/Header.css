@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner&family=Poppins:wght@300;400;600;700&display=swap');
+
+.navbar{
+    background-color:white ;
+    
+}
+.logo{
+    height: 35px;
+}
+.item{
+    color: #264731;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+font-family: 'Poppins', sans-serif;
+}
+.about:hover{
+    cursor: pointer;
+}

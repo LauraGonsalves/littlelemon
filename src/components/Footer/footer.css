@@ -1,0 +1,25 @@
+footer{
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #264731;
+    height: auto;
+}
+ul{
+    list-style-type: none;
+}
+.contact-info{
+    display: flex;
+    flex-direction: row;
+    
+  
+}
+
+.social-media li a,li,p{
+    text-decoration: none;
+     color: white;
+}
+
+.social-media li a:hover{
+    color: #0c923b;
+}
